@@ -8,7 +8,11 @@ Typee is a function to display typewriter style text in the browser. Typee is cu
 typee(className, sentences, typeSpeed, sentenceChangeInterval, sentenceRemovalInterval)
 
 **className (string)** = The DOM element with the specified className to Typeeify.
+
 **sentences (Array[string])** = The array of sentences to display.
+
 **typeSpeed (number)** = The amount of time typee should wait before typing a character.
+
 **sentenceChangeInterval (number)** = The amount of time typee should wait before writing the next sentence.
+
 sentenceRemovalInterval = The amount of time typee should wait before removing the current sentence.
