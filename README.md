@@ -1,7 +1,7 @@
 Typee
 ===================
 
-![enter image description here](https://camo.githubusercontent.com/ff66b183730d39a5fb69af040e7b777ae1917761/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f732f356733746172727874747a3038696f2f74797065652e676966)
+![Preview](https://dl.dropboxusercontent.com/s/5g3tarrxttz08io/typee.gif)
 
 Typee is a function to display typewriter style text in the browser. Typee is currently not a module and is simply enabled by invoking 
 
