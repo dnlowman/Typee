@@ -15,4 +15,4 @@ typee(className, sentences, typeSpeed, sentenceChangeInterval, sentenceRemovalIn
 
 **sentenceChangeInterval (number)** = The amount of time typee should wait before writing the next sentence.
 
-sentenceRemovalInterval = The amount of time typee should wait before removing the current sentence.
+**sentenceRemovalInterval (number)** = The amount of time typee should wait before removing the current sentence.
